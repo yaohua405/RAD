@@ -1,0 +1,3 @@
+python .\RAD.py -a -s -i "C:\Users\<User>\Desktop\Application\TrainingLogs\\"
+
+python .\RAD.py -p -a -s -i "C:\Users\<User>\Desktop\Application\TestLog\\"
